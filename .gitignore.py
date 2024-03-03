@@ -1,0 +1,7 @@
+# pasta a ignorar
+.spyproject
+__pycache__
+
+#ficheiros a ignorar
+datafile.py
+
